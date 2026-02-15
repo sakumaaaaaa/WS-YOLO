@@ -1,0 +1,14 @@
+path: data/Wafer  # dataset root dir
+train: train.txt
+val: val.txt
+
+nc: 6
+
+# Classes
+names:
+  0: scratch
+  1: edge_bite
+  2: stains_embedded
+  3: gray_line
+  4: open
+  5: short_circuit
