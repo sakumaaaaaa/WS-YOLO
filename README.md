@@ -30,6 +30,8 @@ Python >= 3.8，PyTorch >= 1.8.0。
 
 晶圆缺陷检测数据集，包含 6 类缺陷：scratch、edge_bite、stains_embedded、gray_line、open、short_circuit。
 
+链接：https://pan.baidu.com/s/1hO--mnHVe2jRG_Kg_U5GbQ 提取码: 1111 
+
 数据集目录结构：
 
 ```
